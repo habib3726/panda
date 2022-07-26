@@ -1,0 +1,17 @@
+.panda-bg {
+    background-color: #fceae8;
+}
+
+.button {
+    background-color: #FF589B;
+    color: aliceblue;
+    font-weight: 500;
+    padding: 9px 25px;
+}
+
+.button:hover {
+    background-color: #FF589B;
+    color: black;
+    font-weight: 500;
+    padding: 9px 25px;
+}
